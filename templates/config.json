@@ -1,0 +1,24 @@
+{
+  "params" :
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/theexplorerblog",
+    "prod_uri":"mysql://root:@localhost/theexplorerblog",
+    "fb_url":"https://facebook.com/theexplorerblog",
+    "tw_url":"https://twitter.com/theexplorerblog",
+    "gh_url":"https://github.com/theexplorerblog",
+    "blog_name": "The Explorer Blog",
+    "subheading": "A blog liked by Explorers",
+    "gmail-user": "shizukacools@gmail.com",
+    "gmail-password": "Nobitathegenius@15",
+    "about_text": "Hi This is Preeti Singh here, Enjoy my blog and share feedback",
+    "no_of_posts": 3,
+    "login_image": "login.svf",
+    "admin_user": "preeti",
+    "admin_password": "helloworld",
+    "upload_location": "C:\\Users\\Parker\\PycharmProjects\\Flasktut\\static"
+
+
+
+  }
+}
